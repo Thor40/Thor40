@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I am Nicholas Kosik, currently working as a Full-Stack Developer at the [Pinwheel](https://www.pinwheel.com/). Find out more about me & feel free to connect with me here:
+I am Nicholas Kosik, currently working as a Senior Front End Developer. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-thor40-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-kosik-01/)](https://www.linkedin.com/in/nicholas-kosik-01/)
 [![Gmail Badge](https://img.shields.io/badge/-nicholas.kosik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicholas.kosik@gmail.com)](mailto:nicholas.kosik@gmail.com)
